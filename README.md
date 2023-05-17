@@ -1,6 +1,6 @@
 # Tapsi Website Redesign Project 🚖
 
-<!-- ## [App Online Link]() -->
+## [App Online Link](https://tapsi-website-ui-redesign.netlify.app/)
 
 ## App Demo
 
