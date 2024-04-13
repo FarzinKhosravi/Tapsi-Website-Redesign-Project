@@ -36,6 +36,9 @@ With the Difference that in This Project, Changes (With the Details and Excellen
 ## Tips 📌
 
 - Fully Responsive for Mobile, Tablet, Laptop and Desktop.
+- BEM Convention
+- Object-Oriented-CSS
+- CSS Variables
 
 ## Web Development Technologies
 
